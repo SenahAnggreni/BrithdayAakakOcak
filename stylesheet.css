@@ -9,8 +9,7 @@ body {
   overflow-x: hidden;
 }
 .container {
-  width: 100%;
-   min-height: 200px;
+  display : none;
 }
 .peach {
   background-color: #ffdab9;
